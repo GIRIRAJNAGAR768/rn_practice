@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">AdvancedPractice</string>
+    <string name="appCenterCrashes_whenToSendCrashes" moduleConfig="true" translatable="false">DO_NOT_ASK_JAVASCRIPT</string>
+<string name="appCenterAnalytics_whenToEnableAnalytics" moduleConfig="true" translatable="false">ALWAYS_SEND</string>
+
+<string moduleConfig="true" name="codepush_staging_Key">QgHGp8_MRR0fI329PZPmR1CGErGNXOEFZgy3m</string>
+<string moduleConfig="true" name="codepush_production_Key">PSoBeEIKnuB8cm6V8EmQSjI1uLjI9SJjoiFcr</string>
+<string moduleConfig="true" name="CodePushDeploymentKey">QgHGp8_MRR0fI329PZPmR1CGErGNXOEFZgy3m</string>
+
 </resources>
