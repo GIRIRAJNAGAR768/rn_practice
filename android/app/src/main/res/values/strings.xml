@@ -3,8 +3,8 @@
     <string name="appCenterCrashes_whenToSendCrashes" moduleConfig="true" translatable="false">DO_NOT_ASK_JAVASCRIPT</string>
 <string name="appCenterAnalytics_whenToEnableAnalytics" moduleConfig="true" translatable="false">ALWAYS_SEND</string>
 
-<string moduleConfig="true" name="codepush_staging_Key">QgHGp8_MRR0fI329PZPmR1CGErGNXOEFZgy3m</string>
-<string moduleConfig="true" name="codepush_production_Key">PSoBeEIKnuB8cm6V8EmQSjI1uLjI9SJjoiFcr</string>
-<string moduleConfig="true" name="CodePushDeploymentKey">QgHGp8_MRR0fI329PZPmR1CGErGNXOEFZgy3m</string>
+<string moduleConfig="true" name="codepush_staging_Key">EBwKCGhjQZcfC4tyEAOt2QZ9NS7UbLGy5CU2l</string>
+<string moduleConfig="true" name="codepush_production_Key">ZJkQXsU7Ml2LXNg0Nn82V96mMMrIsfNehIc1B</string>
+<string moduleConfig="true" name="CodePushDeploymentKey">EBwKCGhjQZcfC4tyEAOt2QZ9NS7UbLGy5CU2l</string>
 
 </resources>

@@ -80,5 +80,5 @@ To learn more about React Native, take a look at the following resources:
 
 codepush
 
-appcenter codepush release-react -a girignagar-gmail.com/RN_PRACTICE -d Staging
-appcenter codepush release-react -a girignagar-gmail.com/RN_PRACTICE -d Production
+appcenter codepush release-react -a RN_PRACTICE/RN_PRACTICE_ANDROID -d Staging
+appcenter codepush release-react -a RN_PRACTICE/RN_PRACTICE_ANDROID -d Production
