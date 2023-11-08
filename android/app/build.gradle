@@ -74,6 +74,10 @@ android {
 
     compileSdkVersion rootProject.ext.compileSdkVersion
 
+    compileOptions {
+        sourceCompatibility 11
+        targetCompatibility 11
+    }
     namespace "com.advancedpractice"
     defaultConfig {
         applicationId "com.advancedpractice"
